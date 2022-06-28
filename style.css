@@ -1,0 +1,14 @@
+.status {
+  height: 300px;
+  width: auto;
+  background-color: brown;
+  text-align: center;
+}
+.status select{
+    width: 120px;
+    height: 25px;
+}
+.status button{
+    width: 120px;
+    height: 25px;
+}
